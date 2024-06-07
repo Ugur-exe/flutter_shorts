@@ -1,4 +1,5 @@
 # Flutter YouTube Shorts Example
 
 
-![flutter](https://github.com/Ugur-exe/flutter_shorts/assets/99042859/62639c57-ea38-46cd-9c31-8e19c8035a25)
+
+![flutter](https://github.com/Ugur-exe/flutter_shorts/assets/99042859/0686479e-9f3e-4b79-b26a-97c83c4a4739)
